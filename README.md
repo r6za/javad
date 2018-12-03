@@ -1,3 +1,2 @@
 # javad
-my bot
-میری اینو اپلود میکنی تو هاستت دیگ :|
+You should go and Upload it in your webhost 🌐
